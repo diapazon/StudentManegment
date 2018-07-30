@@ -1,0 +1,11 @@
+c:\users\toshiba\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment\bin\Debug\DB\MyDB.mdf
+c:\users\toshiba\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment\bin\Debug\DB\MyDB_log.ldf
+c:\users\toshiba\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment\bin\Debug\SchoolManagment.exe.config
+c:\users\toshiba\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment\bin\Debug\SchoolManagment.exe
+c:\users\toshiba\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment\bin\Debug\SchoolManagment.pdb
+c:\users\toshiba\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment\obj\Debug\SchoolManagment.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment\obj\Debug\SchoolManagment.Form1.resources
+c:\users\toshiba\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment\obj\Debug\SchoolManagment.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment\obj\Debug\SchoolManagment.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment\obj\Debug\SchoolManagment.exe
+c:\users\toshiba\documents\visual studio 2017\Projects\SchoolManagment\SchoolManagment\obj\Debug\SchoolManagment.pdb
